@@ -19,6 +19,6 @@ subtitle: My bona fides
 <p><b><a href="https://www.linkedin.com/in/vinzenztheodortuellmann/">Vinzenz Theodor Tüllmann,</a></b><br />
     Head of Business Intelligence bei Heartbeat Labs GmbH<br />
     Former Supervisor, BI Team Lead at bookingkit GmbH</p>
-<p><b><a href="https://www.linkedin.com/in/iegor-riepin/">Iegor Riepin,</a></b><br />
+<p><b><a href="https://www.linkedin.com/in/iegor-riepin/">Dr. Iegor Riepin,</a></b><br />
     Researcher | Digital Transformation in Energy Systems at TU Berlin <br />
     Master Thesis Supervisor at BTU Cottbus-Senftenberg
