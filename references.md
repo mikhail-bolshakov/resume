@@ -20,5 +20,5 @@ subtitle: My bona fides
     Head of Business Intelligence bei Heartbeat Labs GmbH<br />
     Former Supervisor, BI Team Lead at bookingkit GmbH</p>
 <p><b><a href="https://www.linkedin.com/in/iegor-riepin/">Iegor Riepin,</a></b><br />
-    Researcher | Digital Transformation in Energy Systems at TU Berlin <br />
+    PostDoc researcher | Energy Systems @ TU Berlin <br />
     Master Thesis Supervisor at BTU Cottbus-Senftenberg
