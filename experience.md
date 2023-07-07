@@ -5,16 +5,15 @@ subtitle: My journey
 ---
 
 
-<p><b>Sep 2022 - present time (2 months)</b><br />
+<p><b>Sep 2022 - Jun 2023 (10 months)</b><br />
     Senior Analytics Engineer - Berlin, Coachhub GmbH:
     <br><font color="#606060"> Analytics Engineering | Infrastructure related projects.
-        Looker training, administration, performance monitoring and improvement. Airflow deployment on Kubernetes.
-        dbt deployment.</font></p>
+        Looker training, administration, performance monitoring and improvement. Airflow deployment on Kubernetes. Codebase refactoring and optimization.
+        dbt deployment, workshops and trainings. Testing, monitoring, alerting project.</font></p>
 <p><b>Jan 2022 - Aug 2022 (8 months)</b><br />
     Senior Analytics Engineer - Berlin, DrSmile, Urban Technology GmbH:
     <br><font color="#606060"> Led all Engineering | Analytics Engineering | Infrastructure related projects.
-        Implemented few cost-cutting solutions. Mentored and trained junior team members. Conducted multiple BI | Looker modelling workshops and trainings
-        for business users and team members.</font></p>
+        Implemented few cost-cutting solutions. Mentored and trained junior team members. Conducted multiple BI | Looker modelling workshops and trainings for business users and team members.</font></p>
 <p><b>Jan 2021 - Jan 2022 (1 year)</b><br />
     Data Analyst - Berlin, DrSmile, Urban Technology GmbH:
     <br><font color="#606060"> Handled all engineering and tech projects: ETL monitoring, testing and alerting, data warehouse administration,
