@@ -2,6 +2,7 @@
 layout: page
 title: Expertise
 subtitle: My armamentarium
+wide: true
 ---
 
 
@@ -11,12 +12,23 @@ subtitle: My armamentarium
 
         <h3>Competencies</h3>
         <ul>
-            <li>ELT/ETL;</li>
-            <li>Data Warehousing;</li>
-            <li>Data Analytics;</li>
-            <li>Data Visualization;</li>
+            <li>Data Ingestion: Streaming + Batch;</li>
+            <li>ELT / ETL;</li>
+            <li>Data and Analytics:
+                <ul>
+                    <li>Warehousing;</li>
+                    <li>Governance;</li>
+                    <li>Analytics;</li>
+                    <li>Visualization;</li>
+                    <li>Documentation and Cataloging;</li>
+                </ul>
+            </li>
+
             <li>Multidimensional Modeling;</li>
-            <li>CI/CD.</li>
+            <li>Metrics and KPIs Framework Design;</li>
+            <li>Top Notch Stakeholder Management;</li>
+            <li>Mentoring and Traning;</li>
+
         </ul>
 
     </div>
@@ -24,20 +36,27 @@ subtitle: My armamentarium
 
         <h3>Tech Stack</h3>
         <ul>
-            <li>SQL: Redshift, BigQuery, Snowflake, PostgreSQL, MySQL;</li>
-            <li>Data Visualization Tools: Looker, Power BI (DAX), Tableau;</li>
-            <li>ETL/ELT: Airflow, dbt, Airbyte, Fivetran, Improvado;</li>
-            <li>Python: data import | wrangling | analysis (pandas, numpy), 
-                task automation, database migration;<br />
-            <li>Docker | Kubernetes;</li>
-            <li>Bash;</li>
-            <li>Jenkins;</li>
-            <li>ArgoCD;</li>
-            <li>Plural;</li>
-            <li>RESTful APIs, Webhooks;</li>
-            <li>Zapier;</li>
-            <li>AWS Suite, GCP;</li>
-            <li>Salesforce, Pipedrive, Autopilot, Zendesk, Twilio, Braze;</li>
-            <li>VCS (Git);</li>
-            <li>GSuite, Office 365.</li>
-
+            <li>CLoud Services: Databricks, AWS (Redshift, S3, Lambda, Cloudfront, Athena, Glue), GCP (Compute Engine, BiqQuery, Cloud Storage) ;</li>
+            <li>SQL: Redshift, BigQuery, Snowflake, PostgreSQL, MySQL, DuckDB;</li>
+            <li>Event Streaming: Kafka, Debezium, CDC;</li>
+            <li>AI: MCP, Agentic LLMs, RAG, Chatbots;</li>
+            <li>NoSQL: Mongo;</li>
+            <li>Data Visualization: Looker, Power BI (DAX), Tableau, Superset, Metabase;</li>
+            <li>ETL/ELT: Airflow, Dagster, dbt, Airbyte, Fivetran, Improvado;</li>
+            <li>Python: APIs, data import | wrangling | analysis,
+                task automation, database migration, etc;<br /></li>
+            <li>Containerization: Docker;</li>
+            <li>Infra: k8s, Terraform;</li>
+            <li>Misc:
+                <ul>
+                    <li>CI/CD;</li>
+                    <li>Bash;</li>
+                    <li>Jinja, Liquid;</li>
+                    <li>Jenkins;</li>
+                    <li>ArgoCD;</li>
+                    <li>Plural;</li>
+                    <li>RESTful APIs, Webhooks;</li>
+                    <li>APIs: Salesforce, Pipedrive, Autopilot, Zendesk, Twilio, Braze;</li>
+                    <li>VCS (Git);</li>
+                </ul>
+            </li>
